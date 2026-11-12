@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <rect width="600" height="800" fill="#F4F4F5"/>
+  <g opacity="0.18" stroke="#0F0F11" stroke-width="1">
+    <line x1="40" y1="0" x2="40" y2="800"/>
+    <line x1="560" y1="0" x2="560" y2="800"/>
+    <line x1="0" y1="60" x2="600" y2="60"/>
+    <line x1="0" y1="740" x2="600" y2="740"/>
+  </g>
+  <text x="55" y="44" font-family="monospace" font-size="14" font-weight="bold" fill="#0F0F11">VAULT ARCHIVE // VLT-TAG-01</text>
+  <text x="545" y="44" font-family="monospace" font-size="13" fill="#71717A" text-anchor="end">MACRO TAG</text>
+          <rect x="120" y="180" width="360" height="420" fill="#27272A" stroke="#0F0F11" stroke-width="5"/>
+        <rect x="165" y="230" width="270" height="160" fill="#FFFFFF" stroke="#0F0F11" stroke-width="4"/>
+        <text x="300" y="285" font-family="monospace" font-size="28" font-weight="bold" fill="#0F0F11" text-anchor="middle">VAULT // AUTH</text>
+        <text x="300" y="325" font-family="monospace" font-size="16" fill="#596400" text-anchor="middle">VERIFIED TAG &amp; STITCH</text>
+        <rect x="165" y="425" width="270" height="24" fill="#E6FD52"/>
+        <text x="300" y="442" font-family="monospace" font-size="13" font-weight="bold" fill="#0F0F11" text-anchor="middle">100% ORIGINAL ERA SPEC</text>
+  <rect x="40" y="690" width="520" height="50" fill="#0F0F11"/>
+  <text x="60" y="721" font-family="monospace" font-size="16" font-weight="bold" fill="#E6FD52">NECK &amp; WASH TAG</text>
+  <text x="540" y="721" font-family="monospace" font-size="13" fill="#FFFFFF" text-anchor="end">1-OF-1 CURATED</text>
+</svg>

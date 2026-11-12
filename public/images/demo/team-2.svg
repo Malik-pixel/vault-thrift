@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <rect width="600" height="600" fill="#E8E7F1"/>
+  <circle cx="300" cy="220" r="90" fill="#18181B"/>
+  <path d="M130 560 C130 390 470 390 470 560 Z" fill="#0F0F11"/>
+  <rect x="40" y="490" width="520" height="70" fill="#E6FD52" stroke="#0F0F11" stroke-width="4"/>
+  <text x="300" y="522" font-family="monospace" font-size="20" font-weight="bold" fill="#0F0F11" text-anchor="middle">DINDA SARASWATI</text>
+  <text x="300" y="546" font-family="monospace" font-size="13" fill="#0F0F11" text-anchor="middle">GARMENT RESTORER</text>
+</svg>

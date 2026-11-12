@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="1000" height="600">
+  <rect width="1000" height="600" fill="#EEEDF7"/>
+  <g stroke="#C8C5CA" stroke-width="12" fill="none">
+    <path d="M0 150 L1000 220"/><path d="M0 420 L1000 360"/>
+    <path d="M220 0 L280 600"/><path d="M560 0 L510 600"/><path d="M800 0 L840 600"/>
+  </g>
+  <g stroke="#FFFFFF" stroke-width="5" fill="none">
+    <path d="M0 150 L1000 220"/><path d="M0 420 L1000 360"/>
+    <path d="M220 0 L280 600"/><path d="M560 0 L510 600"/>
+  </g>
+  <rect x="440" y="235" width="190" height="64" fill="#0F0F11"/>
+  <circle cx="535" cy="318" r="14" fill="#E6FD52" stroke="#0F0F11" stroke-width="4"/>
+  <text x="535" y="264" font-family="monospace" font-size="16" font-weight="bold" fill="#E6FD52" text-anchor="middle">VAULT STUDIO</text>
+  <text x="535" y="284" font-family="monospace" font-size="11" fill="#FFFFFF" text-anchor="middle">KEMANG TIMUR NO. 42</text>
+</svg>
